@@ -1,7 +1,31 @@
 #landingpage{
+
   text-align: center;
   background-image: url("/home/sunday/Desktop/IP2/ip2/assets/backgrounds/landing.jpg");
 }
+
+#Partytime{
+  text-align: center;
+background-color: #F15A29;
+color:white;
+}
+#Happyhour{
+  text-align: center;
+}
+
 #breakfast {
+color:white;
+  text-align:center;
   background-image: url("/home/sunday/Desktop/IP2/ip2/assets/foodtop/breakfast.jpg");
+}
+#lunch {
+color:white;
+  text-align: center;
+  background-image: url("/home/sunday/Desktop/IP2/ip2/assets/foodtop/lunch.jpg");
+}
+#dinner {
+  color:white;
+  background-size: cover;
+  text-align: center;
+  background-image: url("/home/sunday/Desktop/IP2/ip2/assets/foodtop/dinner.jpg");
 }
